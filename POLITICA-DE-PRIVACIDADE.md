@@ -14,7 +14,7 @@
 Criar e proteger contas, manter conversas/personagens, sincronizar o serviço, aplicar regras e moderação, processar moedas/assinaturas internas, prevenir fraude e resolver falhas.
 
 ## Conversas e moderação
-Conversas são privadas entre participantes autorizados. O operador pode acessar dados estritamente necessários para investigar denúncias, abuso, segurança ou cumprir obrigações legais. Denúncias devem compartilhar apenas o trecho necessário. Acesso administrativo deve ser restrito e registrado.
+Conversas são privadas entre participantes autorizados. **Somente o administrador principal pode consultar todos os chats e históricos.** Moderadores e vice-administradores não possuem acesso geral: só podem visualizar uma conversa específica quando ela estiver vinculada a uma denúncia ou tarefa de moderação sob sua responsabilidade, e apenas no limite necessário à análise. A permissão para gerenciar denúncias não autoriza navegar por todos os chats. É proibido acessar conversas por curiosidade, interesse pessoal ou finalidade alheia à moderação. O acesso deve ser restrito e auditável.
 
 O recurso de bot assumir personagem deve respeitar a preferência do responsável. O histórico só deve ser enviado a serviço externo de IA quando necessário, com transparência e controles adequados.
 
